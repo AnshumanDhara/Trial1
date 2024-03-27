@@ -1,0 +1,18 @@
+1. Add Victory screen
+2. Add Replay/Quit option
+3. Enemies option
+4. Difficulty option
+5. Options to set player settings
+6. FPS and graphic settings
+7. Increase map size
+8. A guidebook for enemies' and players' health damage and range
+9. Mouse up/down movement, also jump
+10. Actually render game in 3D?
+11. Change textures in game
+12. Add enemies
+13. Create levels
+14. Multiplayer, scoring system
+15. Publish on website
+16. MOST IMP - Push changes on GITHUB, keep older version of game on Github
+17. Change pathfinding algorithms
+18. Different NPC's have different pathfinding algorithms

@@ -1,0 +1,2 @@
+1. When using a large map, walls that are far away seem to get a different texture, like 1 becomes 3
+2. 
